@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Manfred Yegbe
+# Hi there 👋, I'm Manfred Yayra Yegbe
 
 ![Profile Banner](https://img.shields.io/badge/Backend%20Engineer-Python%20%7C%20Django%20%7C%20Security-blueviolet)
 
