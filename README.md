@@ -27,4 +27,4 @@ I am a Software Engineer (Backend) specialized in Python and Django, with a pass
 
 ---
 
-*Let's build secure, reliable, and innovative solutions together!*
+*Let's build secure, reliable, and innovative solutions together.!*
