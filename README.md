@@ -10,7 +10,7 @@ I am a Software Engineer (Backend) specialized in Python and Django, with a pass
 - 💡 **Problem Solver:** Analytical, critical thinker, and multitasker
 - 🤝 **Team Player:** Great cooperation skills, outspoken, and socially active
 
-## 🚀 Projects
+## Projects
 - **Smart Savings Fintech Project:** Innovative fintech platform focused on smart and secure savings.
 - **QR Attendance System:** Efficient attendance management using QR codes.
 - **School Voting Portal:** Secure and transparent online voting system for schools.
