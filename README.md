@@ -3,7 +3,7 @@
 ![Profile Banner](https://img.shields.io/badge/Backend%20Engineer-Python%20%7C%20Django%20%7C%20Security-blueviolet)
 
 ## 👨‍💻 About Me
-I am a Software Engineer (Backend) specialized in Python and Django, with a passion for secure systems and penetration testing. I enjoy solving complex problems and building scalable backend solutions, while ensuring the highest standards of security.
+I am a Software Engineer (Backend) specialized in Python and Django, with a passion for efficient, secure systems and penetration testing. I enjoy solving complex problems and building scalable backend solutions, while ensuring the highest standards of security.
 
 - 🖥️ **Backend Engineering:** Python | Django | REST APIs
 - 🛡️ **Penetration Testing:** Security best practices, vulnerability assessment
