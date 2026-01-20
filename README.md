@@ -20,7 +20,7 @@ I am a Software Engineer (Backend) specialized in Python and Django, with a pass
 - Security Testing & Penetration Testing
 - Problem Solving & Critical Thinking
 - Multitasking & Team Collaboration
-- Social and Outspoken Communication
+- Social and Outspoken Communication.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/manfred-yegbe-0770a82a7)
