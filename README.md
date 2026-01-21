@@ -8,7 +8,7 @@ I am a Software Engineer (Backend) specialized in Python and Django, with a pass
 - 🖥️ **Backend Engineering:** Python | Django | REST APIs
 - 🛡️ **Penetration Testing:** Security best practices, vulnerability assessment
 - 💡 **Problem Solver:** Analytical, critical thinker, and multitasker
-- 🤝 **Team Player:** Great cooperation skills, outspoken, and socially active
+- 🤝 **Team Player:** Great cooperation skills, outspoken, and socially active.
 
 ## Projects
 - **Smart Savings Fintech Project:** Innovative fintech platform focused on smart and secure savings.
