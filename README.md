@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Manfred Yayra Yegbe
+Hii# Hi there 👋, I'm Manfred Yayra Yegbe
 
 ![Profile Banner](https://img.shields.io/badge/Backend%20Engineer-Python%20%7C%20Django%20%7C%20Security-blueviolet)
 
@@ -21,7 +21,7 @@ I am a Software Engineer (Backend) specialized in Python and Django, with a pass
 - Problem Solving & Critical Thinking
 - Multitasking & Team Collaboration
 - Social and Outspoken Communication.
-
+.
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/manfred-yegbe-0770a82a7)
 
